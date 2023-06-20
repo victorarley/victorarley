@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorarley
 - 👀 I’m interested in Java, clean code, microservices ...
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Java proyects
 - 📫 How to reach me victorarley@protonmail.com
 
